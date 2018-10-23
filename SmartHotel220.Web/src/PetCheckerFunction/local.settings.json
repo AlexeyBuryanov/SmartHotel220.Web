@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=sh220func;AccountKey=q2NnORSYjpNavBPaMK0bUZAYKmpWaAH2Dk2CBbdwZ94X2C2HpxFkVGsWjp42juIpdUTUCQV00eqOWeQpIhK5MA==",
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=sh220func;AccountKey=q2NnORSYjpNavBPaMK0bUZAYKmpWaAH2Dk2CBbdwZ94X2C2HpxFkVGsWjp42juIpdUTUCQV00eqOWeQpIhK5MA==",
+    "cosmos_uri": "https://sh220cosmosdb.documents.azure.com:443/",
+    "cosmos_key": "4NWWTKFmNweLfiS49Mt4FZp64alpOHk8iRXeuumm0mRKI41IsBOtEurfuSrYABrnSIFk5Cwg8wyoPBuMSDGamA==",
+    "constr": "AccountEndpoint=https://sh220cosmosdb.documents.azure.com:443/;AccountKey=4NWWTKFmNweLfiS49Mt4FZp64alpOHk8iRXeuumm0mRKI41IsBOtEurfuSrYABrnSIFk5Cwg8wyoPBuMSDGamA==;",
+    "MicrosoftVisionApiKey": "425a72d519a644ee8cc8eb731c14ea7b",
+    "MicrosoftVisionApiEndpoint": "https://westeurope.api.cognitive.microsoft.com/vision/v1.0",
+    "MicrosoftVisionNumTags": 10
+  }
+}
